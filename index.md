@@ -9,7 +9,7 @@ sections:
   - hero:
       title: SCDF Innovation Portal
       subtitle: This is a placeholder
-      background: /images/ict/banner-image-2.jpg
+      background: /images/ff.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
