@@ -8,28 +8,29 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: SCDF Innovation Portal
-      subtitle: Hero subtitle
+      subtitle: This is a placeholder
       background: /images/ict/banner-image-2.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: upcoming events
+          description: Innovation Month 2021
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: excited courses
+          description: Time to learn new things!
           url: https://gmail.com
-        - title: Page A
+        - title: Placeholder
           description: Page A is important too
           url: /privacy/
+  - infopic:
+      title: Innovation is Fun
+      subtitle: Innovation is Fun
+      description: Infopic description
+      button: Button Text
+      image: /images/fire.png
+      alt: Image alt text
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Ready to Learn More About Innovation?
+      button: Lets Goooooo
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
