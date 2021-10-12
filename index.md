@@ -27,7 +27,7 @@ sections:
       subtitle: Innovation is Fun
       description: Infopic description
       button: Button Text
-      image: /images/fire.png
+      image: /images/frr.png
       alt: Image alt text
   - infobar:
       title: Ready to Learn More About Innovation?
